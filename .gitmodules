@@ -1,0 +1,3 @@
+[submodule "test_sub"]
+	path = test_sub
+	url = https://github.com/evilbrave/test_gitmodule_2.git/
