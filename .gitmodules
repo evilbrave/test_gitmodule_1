@@ -6,3 +6,6 @@
 	path = XDDD
 	url = https://github.com/evilbrave/test_gitmodule_2.git
 	branch = aaa
+[submodule "rack"]
+	path = rack
+	url = git://github.com/chneukirchen/rack.git
